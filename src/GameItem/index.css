@@ -1,0 +1,11 @@
+.thumb-img {
+  width: 100px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.thumb-btn {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+}
